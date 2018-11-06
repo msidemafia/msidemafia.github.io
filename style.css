@@ -1,7 +1,12 @@
+body {
+    text-align:center;
+}
+
+
 p{
     background-color:yellowgreen;
     text-decoration-color: blueviolet;
     font-size: 22px;
-    font-family: fantasy
-    
+    font-family: fantasy;
+    text-align:center;
 }
